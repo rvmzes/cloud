@@ -25,7 +25,7 @@ How to run google cloud mpi project with Linux
   `sudo apt-get install gcc`
  2. Upload and compile your code
  3. Upload your private key and run following commands:
-   eval `ssh-agent`
+   `eval` `ssh-agent`
    `ssh-add <PRIVATE_KEY_NAME>`
 
 ## Verify SSH connection
